@@ -1,0 +1,255 @@
+@charset "utf-8";
+.estilo3 {
+}
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+    width: 981px;
+    height: 94px;
+    background-color: #A31C1E;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.estilo3 header img {
+    right: 0%;
+    position: absolute;
+    top: 1%;
+    left: 3%;
+    background-color: #EC653E;
+}
+.estilo3 img {
+    position: absolute;
+    right: 25px;
+    top: 77%;
+    left: -28px;
+}
+.header {
+    background-color: #EC653E;
+    width: 1280px;
+    height: 130px;
+}
+.logo {
+    position: absolute;
+    top: 1px;
+    left: 28px;
+}
+.b1 {
+    position: absolute;
+    top: 45px;
+    left: 496px;
+    bottom: -8px;
+}
+.b2 {
+    position: absolute;
+    top: 45px;
+    left: 604px;
+}
+.b3 {
+    position: absolute;
+    top: 45px;
+    left: 769px;
+}
+.b4 {
+    position: absolute;
+    top: 45px;
+    left: 939px;
+}
+.b5 {
+    position: absolute;
+    top: 45px;
+    left: 1096px;
+}
+.banner {
+    top: -18px;
+    position: relative;
+}
+.fondo {
+    top: -18px;
+    position: relative;
+}
+.caratula {
+    top: -463px;
+    position: relative;
+    left: 100px;
+}
+.cap1 {
+    top: -463px;
+    position: relative;
+    left: 200px;
+}
+.cap2 {
+    top: -463px;
+    position: relative;
+    left: 300px;
+}
+.maps {
+    top: -457px;
+    position: relative;
+    left: 129px;
+}
+.medios {
+    padding-top: 0px;
+    padding-left: 0px;
+    top: -462px;
+    position: relative;
+    left: 125px;
+}
+.Domo {
+    position: relative;
+    top: -418px;
+    right: 293px;
+}
+body {
+}
+.dos {
+    position: relative;
+    top: -574px;
+    left: 138px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+    color: #FFFFFF;
+}
+.uno {
+    position: relative;
+    top: -476px;
+    left: 221px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+    color: #FFFFFF;
+}
+.domo {
+    position: relative;
+    top: -420px;
+    left: 365px;
+}
+.cuatro {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+    position: relative;
+    top: -446px;
+    left: -126px;
+}
+.tres {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+    position: relative;
+    top: -575px;
+    left: 18px;
+}
+.cinco {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+    position: relative;
+    top: -586px;
+    left: -209px;
+}
+.domo2 {
+    position: relative;
+    top: -423px;
+    left: 97px;
+}
+.DOS {
+}
+.TRES {
+}
+.CUATRO {
+}
+.CINCO {
+}
+.a1 {
+    position: relative;
+    top: -476px;
+    left: -46px;
+}
+.a2 {
+    position: relative;
+    top: -576px;
+    left: -130px;
+}
+.a3 {
+    position: relative;
+    top: -579px;
+    left: -257px;
+}
+.a4 {
+    position: relative;
+    top: -450px;
+    left: -394px;
+}
+.a5 {
+    position: relative;
+    top: -588px;
+    left: -481px;
+}
+.c1 {
+    position: relative;
+    top: -610px;
+    left: 338px;
+}
+.ig {
+    position: relative;
+    top: -546px;
+    left: -768px;
+}
+.fb {
+    position: relative;
+    top: -595px;
+    left: -883px;
+}
+.numero {
+    position: relative;
+    top: -540px;
+    left: 235px;
+}
+.pre {
+}
+.pre3 {
+    position: relative;
+    top: -431px;
+    right: -106px;
+}
